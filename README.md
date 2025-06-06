@@ -13,7 +13,7 @@
 
 ![image](https://github.com/user-attachments/assets/1e049146-19bb-411f-a394-55b3cf44846f)
 
-**Running dataset on different DNN Epochs/Batch sizes to compare the restuls and come to a conclution**
+## Running dataset on different DNN Epochs/Batch sizes to compare the restuls and come to a conclution.
 
 ![image](https://github.com/user-attachments/assets/38969920-bf5e-4bd4-a887-84fc11e60ffa)
 
